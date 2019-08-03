@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "marc.schaffer@snc.edu"
 phone = "920.403.2971"
-address = "322 Cofrin Hall, St. Norbert College, 100 Grant St., De Oere, WI 54115"
+address = "322 Cofrin Hall, St. Norbert College, 100 Grant St., De Pere, WI 54115"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
