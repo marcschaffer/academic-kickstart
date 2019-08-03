@@ -69,9 +69,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Marc Schaffer is an associate professor of economics at St. Norbert College.  His research interests include monetary and financial economics with an emphasis on the behavior of financial intermediaries.  He also directs the Center for Business & Economic Analysis at St. Norbert College serving the local and regional business and nonprofit community with research and consulting services.
