@@ -41,12 +41,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
 
-[[experience]]
-  title = "Director"
-  company = "Center for Business & Economic Analysis (CBEA), St. Norbert College"
-  company_url = "https://schneiderschool.snc.edu/cbea/"
-  location = "De Pere, WI"
-  date_start = "2014-09-01"
-  date_end = ""
-  description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
 +++
