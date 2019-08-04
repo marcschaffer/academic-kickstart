@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Associate Professor of Economics"
+  company = "St. Norbert College"
+  company_url = "www.snc.edu"
+  location = "De Pere, WI"
+  date_start = "2012-08-01"
   date_end = ""
-  description = """
+  description = """Teach the macroeconomics related courses for SNC, including the principles and intermediate sections, as well as electives.  In addition to teaching, I engage in multiple aspects of the college community, including advising students, presenting public lectures, and working with the local media for guest appearances. I pursue these activities along with my monetary economics focused research agenda.
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching
+  * Researching
+  * Mentoring
+  * Serving
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Director"
+  company = "Center for Business & Economic Analysis (CBEA), St. Norbert College"
+  company_url = "https://schneiderschool.snc.edu/cbea/"
+  location = "De Pere, WI"
+  date_start = "2014-09-01"
+  date_end = ""
+  description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
 
+[[experience]]
+  title = "Director"
+  company = "Center for Business & Economic Analysis (CBEA), St. Norbert College"
+  company_url = "https://schneiderschool.snc.edu/cbea/"
+  location = "De Pere, WI"
+  date_start = "2014-09-01"
+  date_end = ""
+  description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
 +++
