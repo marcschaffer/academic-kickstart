@@ -13,6 +13,14 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
+
 +++
 
 2019-2020 Academic Year Fall:
