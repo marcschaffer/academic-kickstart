@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Executive compensation and firm risk: an examination across industries"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-08-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = [["Abrokwah, S.", "Hanig, J.", "Schaffer, M."]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,15 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "“*Review of Accounting and Finance*, Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131"
+publication_short = "“*Review of Accounting and Finance*, Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "This paper aims to examine the impact of executive compensation on firm risk-taking behavior, measured by the volatility of stock price returns. Specifically, this analysis explores three hypotheses. First, the impact of short-term and long-term executive compensation packages on firm risk is analyzed to assess whether the packages incentivize risk-taking behavior. Second, the authors test how these compensation and risk relationships were impacted by the financial crisis. Third, they expand the analysis to see if the relationship varies across different industries. The authors find a significant and robust relationship, showing that during the post-financial crisis period firms tended to use long-term compensation shares to reduce firm risk. They also find that the relationship between various compensation components and firm risk varies across industries. Specifically, the bonus share of compensation negatively impacted firm risk in the financial services industry, while it positively impacted risk in the transportation, communication, gas, electric and services sectors. Additionally, long-term compensation share exhibits an inverse relationship with firm risk in the financial services, manufacturing and trade industries.""
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1108/RAF-09-2016-0131"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
