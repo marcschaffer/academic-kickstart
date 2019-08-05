@@ -3,10 +3,10 @@
 title = "Executive compensation and firm risk: an examination across industries"
 
 # Date first published.
-date = "2018"
+date = "08-13-2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Schaffer, M.", "Abrokwah, S.", "Hanig, J."]
+authors = ["Abrokwah, S.", "Hanig, J.", "Schaffer, M."]
 
 # Publication type.
 # Legend:
@@ -20,8 +20,8 @@ authors = ["Schaffer, M.", "Abrokwah, S.", "Hanig, J."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Review of Accounting and Finance*. You may use *Markdown* for italics etc."
-publication_short = "In *RAF*"
+publication = "Abrokwah S., J. Hanig, & M. Schaffer, (2018) Executive compensation and firm risk: an examination across industries, *Review of Accounting and Finance*, Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131"
+#publication_short = "In *RAF*"
 
 # Abstract and optional shortened version.
 abstract = "This paper aims to examine the impact of executive compensation on firm risk-taking behavior, measured by the volatility of stock price returns. Specifically, this analysis explores three hypotheses. First, the impact of short-term and long-term executive compensation packages on firm risk is analyzed to assess whether the packages incentivize risk-taking behavior. Second, the authors test how these compensation and risk relationships were impacted by the financial crisis. Third, they expand the analysis to see if the relationship varies across different industries. The authors find a significant and robust relationship, showing that during the post-financial crisis period firms tended to use long-term compensation shares to reduce firm risk. They also find that the relationship between various compensation components and firm risk varies across industries. Specifically, the bonus share of compensation negatively impacted firm risk in the financial services industry, while it positively impacted risk in the transportation, communication, gas, electric and services sectors. Additionally, long-term compensation share exhibits an inverse relationship with firm risk in the financial services, manufacturing and trade industries."
