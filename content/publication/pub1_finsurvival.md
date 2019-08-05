@@ -27,7 +27,7 @@ abstract = "The financial crisis highlighted the pivotal role that financial int
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "pub1.jpeg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "pub1.jpeg"
+image = ""
 caption = "My caption"
 
 +++
