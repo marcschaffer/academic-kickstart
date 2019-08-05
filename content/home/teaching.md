@@ -22,5 +22,5 @@ weight = 40
 	BUAD516: Macroeconomics for Managers (MBA)
     
 2019-2020 Academic Year Spring:
-    - ECON251: Intermediate Macroeconomics
-    - ECON390: Money & Banking
+  ECON251: Intermediate Macroeconomics
+  ECON390: Money & Banking
