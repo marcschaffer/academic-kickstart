@@ -57,7 +57,7 @@ url_source = "https://doi.org/10.1108/RAF-09-2016-0131"
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
