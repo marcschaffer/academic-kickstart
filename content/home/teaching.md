@@ -11,7 +11,7 @@ title = "Teaching"
 # subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 20
 
 [design]
   # Toggle between the various page layout types.
