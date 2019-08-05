@@ -1,4 +1,3 @@
-Abrokwah S., J. Hanig, & M. Schaffer, (2018) , , Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131
 
 +++
 title = "Executive compensation and firm risk: an examination across industries"
