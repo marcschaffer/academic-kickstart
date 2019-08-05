@@ -3,7 +3,7 @@
 title = "Executive compensation and firm risk: an examination across industries"
 
 # Date first published.
-date = "08-13-2018"
+date = "2018-08-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Abrokwah, S.", "Hanig, J.", "Schaffer, M."]
@@ -20,7 +20,7 @@ authors = ["Abrokwah, S.", "Hanig, J.", "Schaffer, M."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Abrokwah S., J. Hanig, & M. Schaffer, (2018) Executive compensation and firm risk: an examination across industries, *Review of Accounting and Finance*, Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131"
+publication = *Review of Accounting and Finance*, Vol. 17 Issue: 3, pp.359-382, https://doi.org/10.1108/RAF-09-2016-0131"
 #publication_short = "In *RAF*"
 
 # Abstract and optional shortened version.
