@@ -19,8 +19,8 @@ authors = ["Schaffer, M.","Wheeler, M."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Applied Economics*, Vol. 48, Issue 9,pp.759-771 DOI: 10.1080/00036846.2015.1088138"
-publication_short = "*Applied Economics*, Vol. 48, Issue 9,pp.759-771 DOI: 10.1080/00036846.2015.1088138"
+publication = "*Applied Economics*, Vol. 48, Issue 9,pp.759-771 https://doi.org/10.1080/00036846.2015.1088138"
+publication_short = "*Applied Economics*, Vol. 48, Issue 9,pp.759-771 https://doi.org/10.1080/00036846.2015.1088138"
 
 # Abstract and optional shortened version.
 abstract = "A common critique of the Federal Reserve over the past crisis is that it should have better anticipated the impact of the run-up in home mortgage debt and the subsequent housing market crash on the financial system. As a result, the Federal Reserve should have moved much more quickly to shore up financial markets. Our article tests the hypothesis that the impact of the housing market crash on the financial system could have been anticipated. Using a VAR model along with impulse response functions and variance decompositions, we examine the link between housing market mortgage debt shocks and the financial intermediaries’ credit market behaviour. We find important connections between key macroeconomic variables and the credit behaviour of these financial institutions. However, using the pre-crisis data, we find that housing market debt shocks fail to have an impact on the credit markets accessed by these firms. These results support the notion that the impact of this crisis on the financial system could not have been anticipated given the information available at the time."
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "DOI: 10.1080/00036846.2015.1088138"
+url_source = "https://doi.org/10.1080/00036846.2015.1088138"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
