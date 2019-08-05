@@ -16,8 +16,13 @@ weight = 20
 +++
 
 2019-2020 academic year:
+
   Fall
+  
     - ECON101: Principles of Macroeconomics
+    
     - ECON489: Social Finance & Impact Investing
+    
     - BUAD515: Microeconomics for Managers (MBA) 
+    
     - BUAD516: Macroeconomics for Managers (MBA)
