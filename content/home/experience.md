@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Experience"
+title = "Academic Experience"
 subtitle = ""
 
 # Date format for experience
@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Teach the macroeconomics related courses for SNC, including the principles and intermediate sections, as well as electives.  In addition to teaching, I engage in multiple aspects of the college community, including advising students, presenting public lectures, and working with the local media for guest appearances. I pursue these activities along with my monetary economics focused research agenda.
   Responsibilities include:
-  * Teaching
-  * Researching
-  * Mentoring
-  * Serving
+  - Teaching
+  - Researching
+  - Mentoring
+  - Serving
   """
 
 [[experience]]
@@ -40,5 +40,15 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = ""
   description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
+  
+[[experience]]
+  title = "Doctoral Associate, Research Assistant, Teaching Assistant"
+  company = "St. Norbert College"
+  company_url = "www.snc.edu"
+  location = "De Pere, WI"
+  date_start = "2008-08-01"
+  date_end = "2012-06-01"
+  description = """Taught independent sections of Principles of Macroeconomics and Principles of Microeconomics courses for larger lectures of undergraduate students.  My responsibilities include full course control including textbook selection, curriculum structure, quiz and exam creation, and assessment.  Also, I served in a TA capacity for several courses including Microeconomics, African Economics, and Environmental Economics. In addition, I worked several semesters as an RA function in various data and research capacities."""
+  
 
 +++
