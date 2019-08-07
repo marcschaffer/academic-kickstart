@@ -46,18 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:marc.schaffer@snc.edu".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/marcsschaf
+  link: https://www.linkedin.com/in/marc-schaffer-64041730
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=adyPQOwAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/marcschaffer
 - icon: researchgate
   icon_pack: ai
   link: https://researchgate.net/profile/marc_schaffer2
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/marcsschaf
+- icon: github
+  icon_pack: fab
+  link: https://github.com/marcschaffer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
