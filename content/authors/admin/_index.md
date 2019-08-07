@@ -22,6 +22,7 @@ organizations:
 bio: My research interests include monetary and financial economics.
 
 interests:
+- Macroeconomics 
 - Monetary Economics
 - Financial Economics
 - Data Visualization
