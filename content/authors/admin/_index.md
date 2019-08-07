@@ -25,7 +25,8 @@ interests:
 - Macroeconomics 
 - Monetary Economics
 - Financial Economics
-- Data Visualization
+- Social Impact
+- Data Visualization & R
 - Pedagogy
 - Consulting
 
