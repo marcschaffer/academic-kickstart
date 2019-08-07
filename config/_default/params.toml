@@ -98,7 +98,7 @@ address = "322 Cofrin Hall, St. Norbert College, 100 Grant St., De Pere, WI 5411
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 2
 map_api_key = "AIzaSyAzjHpHwoUnseIR1vLAxlhO7bET2B7GvbI"
 latitude = "44.445140"
 longitude = "-88.068250"
