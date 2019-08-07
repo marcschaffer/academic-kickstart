@@ -60,7 +60,8 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "marc.schaffer@snc.edu"
 phone = "920.403.2971"
-address = "322 Cofrin Hall, St. Norbert College, 100 Grant St., De Pere, WI 54115"
+
+
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -79,6 +80,9 @@ contact_links = [
 #  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
+
+address = "322 Cofrin Hall, St. Norbert College, 100 Grant St., De Pere, WI 54115"
+
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
 # a map provider below.
@@ -95,7 +99,7 @@ contact_links = [
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
 map = 1
-map_api_key = "AIzaSyAU6yXVamslJf93EsnH3pZPFz_XKE4pcOg"
+map_api_key = "AIzaSyAzjHpHwoUnseIR1vLAxlhO7bET2B7GvbI"
 latitude = "44.445140"
 longitude = "-88.068250"
 zoom = 15
