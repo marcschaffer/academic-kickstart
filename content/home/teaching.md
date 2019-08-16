@@ -6,15 +6,16 @@ widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
 
-# Control size of block with padding
-padding = ["0px", "0px", "0px", "0px"]
-
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
 # subtitle = ""
 
 # Order that this section will appear in.
 weight = 20
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 
 [design]
   # Toggle between the various page layout types.
