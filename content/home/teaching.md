@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Control size of block with padding
-padding = ["20px", "40px", "20px", "40px"]
+padding = ["100px", "40px", "100px", "40px"]
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
