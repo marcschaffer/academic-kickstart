@@ -43,8 +43,8 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Doctoral Associate, Research Assistant, Teaching Assistant"
-  company = "St. Norbert College"
-  company_url = "www.snc.edu"
+  company = "Western Michigan University"
+  company_url = "www.wmich.edu"
   location = "De Pere, WI"
   date_start = "2008-08-01"
   date_end = "2012-06-01"
