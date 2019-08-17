@@ -31,9 +31,45 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Photography"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
+  description = "10%"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "test"
   description = "10%"
 
 +++
