@@ -15,7 +15,7 @@ weight = 20
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10", "0", "0", "10"]
+  padding = ["10px", "0", "10px", "0"]
 
 [design]
   # Toggle between the various page layout types.
