@@ -15,7 +15,7 @@ weight = 20
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["35px", "0", "35px", "0"]
+  padding = ["40px", "0", "40px", "0"]
 
 [design]
   # Toggle between the various page layout types.
@@ -26,7 +26,6 @@ weight = 20
   view = 1
 
 +++
-
 2019-2020 Academic Year Fall:
 
 - ECON101: Principles of Macroeconomics
