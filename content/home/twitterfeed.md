@@ -11,22 +11,13 @@ title = "Twitter"
 # subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 19
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["50px", "0", "40px", "0"]
 
-# [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
- # view = 1
-
-<a class="twitter-timeline" data-width="800" data-height="501" data-theme="light" href="https://twitter.com/MarcSSchaf?ref_src=twsrc%5Etfw">Tweets by MarcSSchaf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 +++
 
-
+<a class="twitter-timeline" data-width="800" data-height="501" data-theme="light" href="https://twitter.com/MarcSSchaf?ref_src=twsrc%5Etfw">Tweets by MarcSSchaf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
