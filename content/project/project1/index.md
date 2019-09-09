@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: A Market Approach to Price Determination
+summary: An in-class example of the Van Westendorp Pricing Model.
 tags:
-- CBEA Projects
+- Data Modules
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
