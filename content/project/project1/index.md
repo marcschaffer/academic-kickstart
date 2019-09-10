@@ -1,5 +1,5 @@
 ---
-title: A Market Approach to Price Determination
+title: A Marketing Approach to Price Determination
 summary: An in-class example of the Van Westendorp Pricing Model.
 tags:
 - Data Modules
