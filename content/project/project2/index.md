@@ -1,12 +1,12 @@
 ---
-title: A Market Approach to Price Determination
-summary: An in-class example of the Van Westendorp Pricing Model.
+title: A Primer on Regression Analysis & Evaluation
+summary: An in-class example for basic regression analysis.
 tags:
 - Data Modules
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/marcschaffer/AnalyticsTutorials/blob/master/PriceSensitivityMeter.html"
+external_link: "https://www.marcschaffer.com/files/regressionprimer.html"
 
 image:
   caption: Cover Page
@@ -29,18 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-This quick example is designed to provide one approach to getting a sense of market pricing using consumer surveys. This approach uses the van Westendorp Pricing Model.
-
-This model is based on asking four questions of consumers about a test product:
-
-At which price on this scale you are beginning to experience . . . (test-product) as too cheap – so that you say “at this price the quality cannot be good”?
-
-At which price on this scale are you beginning to experience (test-product) as cheap?
-
-At which price on this scale are you beginning to experience (test-product) as expensive?
-
-At which price on this scale you are beginning to experience (test-product) as too expensive – so that you would never consider buying it yourself?
-
-Using the consumer responses to these four questions, the cumulative distribution of responses can mapped against the prices develop 4 curves for analysis: Too Cheap (tch), Cheap (ch), Expensive (ex), Too Expensive (tex).
-
