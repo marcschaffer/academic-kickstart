@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rawgit.com/marcschaffer/academic-kickstart/blob/master/static/files/PriceSensitivityMeter.html"
+external_link: "https://cdn.rawgit.com/marcschaffer/academic-kickstart/blob/master/static/files/PriceSensitivityMeter.html"
 
 image:
   caption: Cover Page
