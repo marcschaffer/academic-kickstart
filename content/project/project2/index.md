@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.marcschaffer.com/files/regressionprimer.html"
+external_link: "https://www.marcschaffer.com/files/Regression_Primer.html"
 
 image:
   caption: Cover Page
