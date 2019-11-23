@@ -32,6 +32,10 @@ weight = 20
 - ECON489: Social Finance & Impact Investing
 - BUAD515: Microeconomics for Managers (MBA) 
 - BUAD516: Macroeconomics for Managers (MBA)
+
+2020 J-Term:
+
+- BUAD589: Data Visualization (MBA)
     
 2019-2020 Academic Year Spring:
 
