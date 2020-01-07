@@ -1,6 +1,6 @@
 ---
-title: Lab 1: Introduction to R
-summary: The goal of this walkthrough is to familiarize the user with the R interface, understand the basic commands and structure, and introduce basic data visualization using ggplot.
+title: An Introduction to R
+summary: An in-class tutorial to introduce R.
 tags:
 - Data Modules
 date: "2016-04-27T00:00:00Z"
