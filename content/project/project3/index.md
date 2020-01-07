@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.marcschaffer.com/files/Lab1_Intro_R_Data_Visualization.html"
+external_link: "https://marcschaffer.shinyapps.io/Lab1_Intro_R_Data_Visualization/"
 
 image:
   caption: Cover Page
