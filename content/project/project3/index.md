@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "Lab1_Intro_R_Data_Visualization.html"
+external_link: "https://www.marcschaffer.com/files/Lab1_Intro_R_Data_Visualization.html"
 
 image:
   caption: Cover Page
@@ -29,6 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 Introduction to R
 The goal of this walkthrough is to familiarize the user with the R interface, understand the basic commands and structure, and introduce basic data visualization using ggplot.
 
