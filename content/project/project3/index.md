@@ -30,10 +30,12 @@ url_video: ""
 slides: example
 ---
 
-Introduction to R
+Introduction to R:
+
 The goal of this walkthrough is to familiarize the user with the R interface, understand the basic commands and structure, and introduce basic data visualization using ggplot.
 
-Outline
+Outline:
+
 This tutorial will help you become familiar with the following:
 
 Basic Layout and Structure of R Studio Interface
