@@ -1,5 +1,5 @@
 ---
-title: A Primer on Regression Analysis & Evaluation
+title: A Primer on Regression Analysis
 summary: An in-class example for basic regression analysis.
 tags:
 - Data Modules
