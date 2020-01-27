@@ -3,7 +3,7 @@ title: A Marketing Approach to Price Determination
 summary: An example of the Van Westendorp Pricing Model.
 tags:
 - Data Modules
-date: "2016-04-27T00:00:00Z"
+date: "2019-09-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.marcschaffer.com/files/PriceSensitivityMeter.html"
