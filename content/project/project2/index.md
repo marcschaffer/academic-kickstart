@@ -3,7 +3,7 @@ title: A Primer on Regression Analysis
 summary: An example for basic regression analysis.
 tags:
 - Data Modules
-date: "2016-04-27T00:00:00Z"
+date: "2019-10-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.marcschaffer.com/files/Regression_Primer.html"
