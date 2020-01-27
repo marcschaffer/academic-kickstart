@@ -3,7 +3,7 @@ title: An Introduction to R
 summary: An in-class tutorial to introduce R.
 tags:
 - Data Modules
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://marcschaffer.shinyapps.io/Lab1_Intro_R_Data_Visualization/"
