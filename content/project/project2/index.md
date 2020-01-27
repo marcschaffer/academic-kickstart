@@ -1,6 +1,6 @@
 ---
 title: A Primer on Regression Analysis
-summary: An in-class example for basic regression analysis.
+summary: An example for basic regression analysis.
 tags:
 - Data Modules
 date: "2016-04-27T00:00:00Z"
