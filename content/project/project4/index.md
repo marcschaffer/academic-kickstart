@@ -3,7 +3,7 @@ title: Data Visualization w/ ggplot
 summary: An in-class tutorial to introduce ggplot
 tags:
 - Data Modules
-date: "2020-01-02"
+date: "2019-12-15"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://marcschaffer.shinyapps.io/lab2_datavisualization_w_ggplot/"
