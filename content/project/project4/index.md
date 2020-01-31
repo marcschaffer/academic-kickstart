@@ -35,6 +35,7 @@ Data Visualization with ggplot:
 The goal of this walk through is to review the basics of visualizing data in R using the ggplot package and expand your knowledge and capabilities using different geom types, as well as a implementing various aesthetics to better present your data. The goal is to introduce some of the various visualization capabilities within this package. This is not at all designed to be comprehensive, but introductory in nature.
 
 Outline
+
 This tutorial will help you become familiar with the following:
 
 - Loading data into R using .csv files
