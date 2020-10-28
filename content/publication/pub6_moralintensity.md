@@ -1,7 +1,7 @@
 +++ title = "The Role of Faith in Shaping Ethical Perceptions and Intentions"
 
 Date first published.
-date = "2019-01-01"
+date = "2020-01-01"
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["O'Brien, J.", "Pahl, J.", "Schaffer, M."]
