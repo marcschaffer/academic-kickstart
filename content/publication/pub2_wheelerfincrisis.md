@@ -1,5 +1,5 @@
 +++
-title = "Was the Impact of the Housing Market Crash on the U.S. Financial System Predictable?"
+title = "Was the impact of the housing market crash on the U.S. financial system predictable?"
 
 # Date first published.
 date = "2016-01-01"
