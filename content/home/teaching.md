@@ -26,18 +26,25 @@ weight = 20
   view = 1
 
 +++
-2019-2020 Academic Year Fall:
+2020-2021 Academic Year Fall:
 
 - ECON101: Principles of Macroeconomics
-- ECON489: Social Finance & Impact Investing
-- BUAD515: Microeconomics for Managers (MBA) 
+- ECON402: Solving Social & Economic Problems with Data
 - BUAD516: Macroeconomics for Managers (MBA)
 
-2020 J-Term:
+2021 J-Term:
 
-- BUAD589: Data Visualization (MBA)
+- ECON101: Principles of Macroeconomics
     
-2019-2020 Academic Year Spring:
+2020-2021 Academic Year Spring:
 
  - ECON251: Intermediate Macroeconomics
- - ECON390: Money & Banking
+ - DATA101: Introduction to Data Analytics
+ 
+2021 May-Term
+
+- ECON101: Principles of Macroeconomics
+- BUAD589: Data Visualization (MBA)
+
+ 
+ 
