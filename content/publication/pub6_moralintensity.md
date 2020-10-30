@@ -8,7 +8,7 @@ date = "2020-01-01"
 authors = ["O'Brien, J.", "Pahl, J.", "Schaffer, M."]
 
 # Publication type.
-Legend:
+Legend
 0 = Uncategorized
 1 = Conference proceedings
 2 = Journal
