@@ -1,5 +1,5 @@
 +++
-title = "The Market Survival of Publicly Traded Traditional and Market-Based Financial Intermediaries"
+title = "The market survival of publicly traded traditional and market-based financial intermediaries"
 
 # Date first published.
 date = "2015-01-01"
