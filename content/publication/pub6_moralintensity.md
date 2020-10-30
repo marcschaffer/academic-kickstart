@@ -1,5 +1,5 @@
 +++ 
-title = "The Role of Faith in Shaping Ethical Perceptions and Intentions"
+title = "The role of faith in shaping ethical perceptions and intentions"
 
 # Date first published.
 date = "2020-01-01"
