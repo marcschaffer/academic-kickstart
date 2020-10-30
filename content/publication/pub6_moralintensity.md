@@ -8,14 +8,14 @@ date = "2020-01-01"
 authors = ["O'Brien, J.", "Pahl, J.", "Schaffer, M."]
 
 # Publication type.
-Legend
-0 = Uncategorized
-1 = Conference proceedings
-2 = Journal
-3 = Work in progress
-4 = Technical report
-5 = Book
-6 = Book chapter
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
