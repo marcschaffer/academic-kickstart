@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- Associate Professor of Economics, Dale and Ruth Michels Endowed Chair
+role: - Associate Professor of Economics, Dale and Ruth Michels Endowed Chair
 - Director of the Center for Business & Economic Analysis
 - Program Coordinator for Data Analytics
 
