@@ -40,7 +40,7 @@ education:
   - course: MS in Applied Economics
     institution: Western Michigan University
     year: 2009
-  - course: BA in Economics & Business Administration
+  - course: BA in Economics & Business Admin.
     institution: Augustana College
     year: 2006
 
