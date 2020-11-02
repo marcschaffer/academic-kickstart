@@ -11,12 +11,14 @@ superuser: true
 
 # Role/position
 role: Associate Professor of Economics
+      Dale and Ruth Michels Endowed Chair
       Director of the Center for Business & Economic Analysis
+      Program Coordinator for Data Analytics
 
 # Organizations/Affiliations
 organizations:
 - name: St. Norbert College
-  url: "www.snc.edu"
+  url: "https://schneiderschool.snc.edu/academics/profiles/marc.schaffer.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include monetary and financial economics.
