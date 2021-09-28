@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Data Visualization Workshops
 
 # View.
 #   1 = List
