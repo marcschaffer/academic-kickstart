@@ -7,7 +7,12 @@
   name = "Home"
   url = "#about"
   weight = 10
-
+  
+[[main]]
+  name = "Workshops"
+  url = "#talks"
+  weight = 15
+  
 [[main]]
   name = "Teaching"
   url = "#teaching"
