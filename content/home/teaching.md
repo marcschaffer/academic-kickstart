@@ -26,22 +26,22 @@ weight = 20
   view = 1
 
 +++
-2020-2021 Academic Year Fall:
+2021-2022 Academic Year Fall:
 
 - ECON101: Principles of Macroeconomics
 - ECON402: Solving Social & Economic Problems with Data
 - BUAD516: Macroeconomics for Managers (MBA)
 
-2021 J-Term:
+2022 J-Term:
 
 - ECON101: Principles of Macroeconomics
     
-2020-2021 Academic Year Spring:
+2021-2022 Academic Year Spring:
 
  - ECON251: Intermediate Macroeconomics
  - DATA101: Introduction to Data Analytics
  
-2021 May-Term
+2022 May-Term
 
 - ECON101: Principles of Macroeconomics
 - BUAD589: Data Visualization (MBA)
