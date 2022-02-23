@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:marc.schaffer@snc.edu".
+  link: '#contact'  # For a direct email link, use "https://formspree.io/f/mvolankl".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
