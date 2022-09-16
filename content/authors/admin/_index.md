@@ -83,5 +83,5 @@ email: ""
 #- Visitors
 ---
 
-Marc Schaffer is an associate professor of economics at St. Norbert College.  His research interests include monetary and financial economics with an emphasis on the behavior of financial intermediaries.  He also directs the Center for Business & Economic Analysis at St. Norbert College serving the local and regional business and nonprofit community with research and consulting services.  Marc also offers data visualization workshops and training for businesses and nonprofits.
+Marc Schaffer is a professor of economics and data analytics at St. Norbert College.  His research interests include monetary and financial economics with an emphasis on the behavior of financial intermediaries.  He also directs the Center for Business & Economic Analysis at St. Norbert College serving the local, regional, and national business and nonprofit community with research and consulting services.  Marc also offers data visualization workshops and training for businesses and nonprofits.
 
