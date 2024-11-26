@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Associate Professor of Economics"
+  title = "Professor of Economics & Data Analytics"
   company = "St. Norbert College"
   company_url = "www.snc.edu"
   location = "De Pere, WI"
   date_start = "2012-08-01"
   date_end = ""
-  description = """Teach the macroeconomics related courses for SNC, including the principles and intermediate sections, as well as electives.  In addition to teaching, I engage in multiple aspects of the college community, including advising students, presenting public lectures, and working with the local media for guest appearances. I pursue these activities along with my monetary economics focused research agenda.
+  description = """Teach the macroeconomics and data analytics related courses for SNC, including the principles and intermediate sections, as well as electives along with introductory and advanced analytics courses.  In addition to teaching, I engage in multiple aspects of the college community, including advising students, presenting public lectures, and working with the local media for guest appearances. I pursue these activities along with my monetary economics focused research agenda.
   Responsibilities include:
   - Teaching
   - Researching
@@ -34,12 +34,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Director"
-  company = "Center for Business & Economic Analysis (CBEA), St. Norbert College"
+  company = "Center for Business, Economics, & Analytics (CBEA), St. Norbert College"
   company_url = "https://schneiderschool.snc.edu/cbea/"
   location = "De Pere, WI"
   date_start = "2014-09-01"
   date_end = ""
-  description = """Lead the efforts of the CBEA in completing 20 community-based projects and giving 25 presentations in our first 4 years while partnering with the local business and non-profit community to promote collaboration with students in a consulting and project-based environment."""
+  description = """Lead the efforts of the CBEA in completing 50 consulting projects (fee-based & pro-bono) and giving over 70 presentations while partnering with the local business, non-profit, and government community to promote collaboration with students in a consulting and project-based environment."""
   
 [[experience]]
   title = "Doctoral Associate, Research Assistant, Teaching Assistant"
