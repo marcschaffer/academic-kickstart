@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Professor of Economics & Data Analytics, Dale and Ruth Michels Endowed Chair |
 
-      Executive Director of the Center for Business & Economic Analysis 
+      Executive Director of the Center for Business, Economics, &  Analytics 
 
 # Organizations/Affiliations
 organizations:
@@ -26,22 +26,21 @@ interests:
 - Macroeconomics 
 - Monetary Economics
 - Financial Economics
-- Social Impact
-- Data Visualization & R
-- Pedagogy
+- Data Analytics/Science (R & Python)
+- Data Visualization & Design
 - Consulting
 
 education:
   courses:
   - course: PhD in Applied Economics
     institution: Western Michigan University
-    year: 2012
+    year:
   - course: MS in Applied Economics
     institution: Western Michigan University
-    year: 2009
+    year:
   - course: BA in Economics & Business Admin.
     institution: Augustana College
-    year: 2006
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -83,5 +82,5 @@ email: ""
 #- Visitors
 ---
 
-Marc Schaffer is a professor of economics and data analytics at St. Norbert College.  His research interests include monetary and financial economics with an emphasis on the behavior of financial intermediaries.  He also directs the Center for Business & Economic Analysis at St. Norbert College serving the local, regional, and national business and nonprofit community with research and consulting services.  Marc also offers data visualization workshops and training for businesses and nonprofits.
+Marc Schaffer is a professor of economics and data analytics at St. Norbert College. He also directs the Center for Business, Economics, and Analytics at St. Norbert College serving the local, regional, and national business and nonprofit community with research and consulting services.  His research interests include monetary and financial economics with an emphasis on the behavior of financial intermediaries. Marc also offers data visualization workshops and training for businesses and nonprofits at [Arc + Line]("www.arcandline.co")
 
