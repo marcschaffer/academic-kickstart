@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Director"
+  title = "Executive Director"
   company = "Center for Business, Economics, & Analytics (CBEA), St. Norbert College"
   company_url = "https://schneiderschool.snc.edu/cbea/"
   location = "De Pere, WI"
